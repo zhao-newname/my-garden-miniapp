@@ -1,0 +1,11 @@
+<view class="container">
+  <view class="header">
+    <text class="title">My Garden</text>
+  </view>
+  <view class="plant-list">
+    <view class="empty">
+      <text>No plants yet. Start adding!</text>
+      <button class="add-btn" bindtap="goToAdd">Add Plant</button>
+    </view>
+  </view>
+</view>
